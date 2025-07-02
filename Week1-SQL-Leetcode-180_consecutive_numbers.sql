@@ -1,4 +1,4 @@
--- File: /week1/sql_practice/180_consecutive_numbers.sql
+-- File: /sql_problems/Week1-SQL-Leetcode-180_consecutive_numbers.sql
 
 -- Problem: Find all numbers that appear at least three times consecutively.
 -- Approach: Use LAG and LEAD to find middle element of such triplets.
