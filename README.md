@@ -1,6 +1,6 @@
-# SQL Practice for Data Engineer Interviews
+# SQL Practice for Data Engineers / SQL Nerds
 
-This repository contains curated SQL interview questions with optimized solutions for major tech companies
+This repository contains curated SQL questions with solutions 
 
 ## Topics Covered
 
