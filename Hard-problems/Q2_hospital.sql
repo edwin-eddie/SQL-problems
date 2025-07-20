@@ -3,6 +3,9 @@
 -- Obese is defined as weight(kg)/(height(m)2) >= 30.
 -- weight is in units kg.
 -- height is in units cm.
+
+
+=====================================================================================================
 -- If you divide an int by an int you will get an int. Dividing an int by a float will return a float.
 -- That's why you have to divide by 100.0 and not 100.
 
